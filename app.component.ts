@@ -60,7 +60,7 @@ interface Building {
           width="960" height="340" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
       </section>
     </main>
-    <footer>CampusAble | IT 390 | Sufyan Zelawar</footer>
+    <footer>CampUsable | IT 390 | Mahnoor Ajmal</footer>
   `
 })
 export class AppComponent {
